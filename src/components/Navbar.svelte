@@ -8,8 +8,7 @@
   </div>
   <div class="navbar-end">
     <a
-      href="/WhatsappTextEditor2.svelte"
-      download
+      href="https://github.com/bigzero55/svelte"
       class="btn btn-ghost btn-circle"
     >
       <svg
