@@ -193,7 +193,7 @@
   class:focused={isFocused}
   style="--border-color-focus: {borderColorFocus}; --border-color-blur: {borderColorBlur};"
 >
-  <div class="editor-wrapper" bind:this={editorContainer}></div>
+  <div class="editor-wrapper " bind:this={editorContainer}></div>
 
   <div class="emoji-section">
     <button
@@ -220,7 +220,7 @@
 <style>
   .message-input-container {
     position: relative;
-    width: 90%;
+    width: 100%;
     min-height: 50px;
     border: 0.5px solid var(--border-color-blur);
     border-radius: 10px;
