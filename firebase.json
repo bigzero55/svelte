@@ -1,0 +1,7 @@
+{
+  "hosting": {
+    "public": "dist",
+    "site": "wa-text-editor",
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+  }
+}
